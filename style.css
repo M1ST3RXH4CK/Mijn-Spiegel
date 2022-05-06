@@ -41,3 +41,13 @@ header{
 	color: #BF8F2F;
 	cursor: pointer;
 }
+.img{
+	transition: width 1s;
+	position: absolute;
+	top: 90px; right: 40px;
+	width: 500px;
+}
+.img:hover{
+	width: 525px
+	
+}
