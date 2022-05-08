@@ -59,5 +59,7 @@ header{
 }
 
 .list{
-	list-style-type: circle;
+	list-style: disc outside none;
+	display: list-item;
+	margin-left: 1em;
 }
