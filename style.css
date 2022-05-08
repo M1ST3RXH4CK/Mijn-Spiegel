@@ -56,3 +56,7 @@ header{
 	width: 525px
 	
 }
+
+.list{
+	list-style-type: circle;
+}
