@@ -10,12 +10,15 @@ h1{
 }
 
 .burgerColor{
+	color: rgb(255,255,255);
     background-color: #2f70bf;
 	display: flex;
 	justify-content: space-between;
-	-webkit-border-radius: 100px / 160px;
-	-moz-border-radius: 100px / 160px; 
-	border-radius: 100px / 160px; 
+	border-radius: 25px;
+	padding: 20px;
+	width: 200px;
+	height: 150px;
+
 }
 
 header{
