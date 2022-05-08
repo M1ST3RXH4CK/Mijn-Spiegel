@@ -65,9 +65,17 @@ header{
 	margin-left: 1em;
 }
 
-.imgbalk{
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+	float: left;
+	width: 33.33%;
+	padding: 5px;
 	background-color: rgb(64, 115, 121);
-	display: flex;
-	justify-content: space-between;
-	padding: 10px 10%;
+}
+  
+  /* Clear floats after image containers */
+.row::after {
+	content: "";
+	clear: both;
+	display: table;
 }
