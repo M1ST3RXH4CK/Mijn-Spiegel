@@ -10,14 +10,14 @@ h1{
 }
 
 .burgerColor{
-    background-color: #BF8F2F;
+    background-color: #2f70bf;
 	display: flex;
 	justify-content: space-between;
 	padding: 10px 10%;
 }
 
 header{
-    background-color: rgb(47, 47, 49);
+    background-color: rgb(14, 201, 222);
 	display: flex;
 	justify-content: space-between;
 	padding: 10px 10%;
@@ -38,7 +38,7 @@ header{
 	color: honeydew;
 }
 .nav__links li a:hover{
-	color: #BF8F2F;
+	color: #2f70bf;
 	cursor: pointer;
 }
 .img{
