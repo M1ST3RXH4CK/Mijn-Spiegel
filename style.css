@@ -84,9 +84,6 @@ header{
 }
 
 .imgscale{
-	transition: width 1s;
-	position: absolute;
-	top: 90px; right: 40px;
 	width: 150px;
 	height: 150px;
 }
